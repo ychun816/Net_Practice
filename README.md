@@ -1,6 +1,6 @@
 #Net_Practice
 
-+ Basic Network Concepts Explained
++ Basic Network Concepts Explained (EN + CH)
   https://hackmd.io/mROC0zbARwiUTL82Pz4r-g?both
 
 + Level 6-10 Walk-through Practice
