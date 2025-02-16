@@ -1,4 +1,4 @@
-# Net_Practice
+# NetPractice
 
 + Basic Network Concepts Explained (EN + CH)
   https://hackmd.io/@QBrv51OvRPqs9dJjL2YIig/Syx9UJldyl
